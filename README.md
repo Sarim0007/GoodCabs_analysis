@@ -77,7 +77,7 @@ The datasets are provided by Codebasics. Here you can see the overview:
 
 
  
-Additionally, I have added "City Category" dataset which is created based on latest information available on internet. You can see the table [here](./Datasets/csv_files/city-category.csv) 
+Additionally, I have added "City Category" dataset which is created based on latest information available on internet. You can see the table [here](https://github.com/Sarim0007/GoodCabs_analysis/blob/main/Datasets/csv_files/city-category.csv) 
 
 
 > [!IMPORTANT]
