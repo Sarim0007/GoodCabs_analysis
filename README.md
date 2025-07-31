@@ -72,7 +72,7 @@ The datasets are provided by Codebasics. Here you can see the overview:
 
 <p align="center"> Meta Data </p>
 
-> For understanding the dataset in details, [Click Here](.Problem_statments/meta_data.txt) to view meta data details of given database and tables. 
+> For understanding the dataset in details, [Click Here](https://github.com/Sarim0007/GoodCabs_analysis/blob/main/Problem_statments/meta_data.txt) to view meta data details of given database and tables. 
 
 
 
